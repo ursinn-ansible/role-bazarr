@@ -1,0 +1,10 @@
+---
+role_bazarr_image: 'lscr.io/linuxserver/bazarr'
+role_bazarr_container: 'bazarr'
+role_bazarr_puid: '1000'
+role_bazarr_pgid: '1000'
+role_bazarr_tz: 'Europe/Zurich'
+role_bazarr_dir: '/opt/app-bazarr'
+role_bazarr_network: 'app-network'
+
+role_bazarr_media_dir: '/opt/media'
